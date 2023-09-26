@@ -1,0 +1,18 @@
+@import url(../global.css);
+@font-face {
+  font-family: 'IAMAPLAYER';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/IAMAPLAYER.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+.MoreGenre{
+  color: var(--font-color);
+  width: 100%;
+  background-color: var(--bg-color);
+}
+
+.maintitle{
+  margin-top: 5rem;
+  font-size: 3rem;
+  text-align: center;
+}

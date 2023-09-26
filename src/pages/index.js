@@ -1,0 +1,7 @@
+export { default as Main } from './Main'
+export { default as Tournament } from './Tournament'
+export { default as Winner } from './Winner'
+export { default as Homepage } from './Homepage'
+export { default as MoreGenre } from './MoreGenre'
+export { default as Loginpage } from './Loginpage'
+export { default as Likemovie } from './Likemovie'
