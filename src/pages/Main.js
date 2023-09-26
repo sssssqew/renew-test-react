@@ -45,16 +45,16 @@ function Main(){
                     
                 >
                     <motion.text x="0" y="110" variants={textContents}>
-                        What is
+                        당신이 
                     </motion.text>
                     <motion.text x="0" y="170" variants={textContents}>
-                        Your
+                        좋아하는
                     </motion.text>
                     <motion.text x="0" y="230" variants={textContents}>
-                        Favorite
+                        영화는
                     </motion.text>
                     <motion.text x="0" y="290" variants={textContents}>
-                        Movie ?
+                        무엇인가요 ?
                     </motion.text>
                 </motion.svg>
                 
