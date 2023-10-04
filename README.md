@@ -1,3 +1,6 @@
+박지선 영화앱 - 이상형 월드컵 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
